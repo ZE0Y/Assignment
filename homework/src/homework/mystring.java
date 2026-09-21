@@ -7,7 +7,7 @@ public class mystring {
     public mystring() {
         Text = null;
     }
-
+//hello
     public void setString(String t) {
         Text = t;
     }
